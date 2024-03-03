@@ -1,3 +1,3 @@
 # gitDemo
-Author - Achal
+Author - Achal Turkar
 i am learning Github
